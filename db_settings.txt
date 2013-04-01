@@ -1,0 +1,6 @@
+#database settings file
+user: officeFurniture
+pass: 3sv4CGm5r364d5XR
+host: localhost
+database: officeFurniture
+

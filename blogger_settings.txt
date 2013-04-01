@@ -1,0 +1,4 @@
+#settings for Blogger login
+user: xxxx
+pass: xxxxxxx
+blogid: xxxxxxxxx
